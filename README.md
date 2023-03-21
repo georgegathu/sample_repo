@@ -205,5 +205,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **MUTHAURA KARIMI** <[Karemi](https://github.com/MuthauraCodex)>
+* **MUTHAURA KARIMI** <[Karimi](https://github.com/MuthauraCodex)>
 * **GEORGE GATHU** <[Gathu](https://github.com/georgegathu)>
